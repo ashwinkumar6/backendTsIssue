@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts"],"version":"5.6.2"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./amplify/data/resource.ts","./amplify/functions/oidc/handler.ts","./amplify/functions/oidc/resource.ts"],"version":"5.6.2"}
